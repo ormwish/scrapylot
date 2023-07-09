@@ -1,0 +1,10 @@
+
+{
+  "author": "PV",
+  "version": "0.0.1",
+  "git": "https://github.io/ormwish/scrapylot",
+  "entrypoint": "./ts/index.ts",
+  "dependencies": {
+    "puppeteer": "^20.8.0"
+  }
+}
